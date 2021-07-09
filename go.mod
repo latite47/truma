@@ -1,4 +1,4 @@
-module github.com/AfterShip/email-verifier
+module github.com/latite47/trum
 
 go 1.15
 
