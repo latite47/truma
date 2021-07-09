@@ -1,4 +1,4 @@
-module github.com/latite47/trum
+module github.com/latite47/truma
 
 go 1.15
 
