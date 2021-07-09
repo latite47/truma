@@ -6,7 +6,7 @@ import (
 	"log"
 	"net/http"
 
-	emailVerifier "github.com/AfterShip/email-verifier"
+	emailVerifier "github.com/latite47/trum"
 	"github.com/julienschmidt/httprouter"
 )
 
